@@ -17,6 +17,7 @@ A curated list of directories and platforms to discover and verify AI tools.
 | **[There's An AI For That](https://theresanaiforthat.com/)** | Provides a task-based search engine to map specific professional problems to AI solutions. |
 | **[Product Hunt](https://www.producthunt.com/)** | Provides a launch environment for new AI products with community-driven validation. |
 | **[FutureTools](https://www.futuretools.io/)** | Provides a curated selection of high-utility tools vetted for operational efficiency. |
+| **[AI Tool Web Dir](https://aitoolwebdir.com/)** | Provides a hand-picked index of 165 AI tools across 12 categories, with feature and pricing comparison plus an open submission form. |
 
 ## 🛠 Submission & Contribution Guide
 
